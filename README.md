@@ -24,3 +24,10 @@ Processes sequential data but struggles with long-term dependencies due to the v
 
 Long Short-Term Memory (LSTM):
 Overcomes RNN limitations by retaining long-term dependencies using memory cells and gating mechanisms.
+
+## Contributors ##
+
+Your Name - Harshit Garg
+
+Collaborators - Gautam Aggarwal
+
