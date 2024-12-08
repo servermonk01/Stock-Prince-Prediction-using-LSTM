@@ -28,5 +28,6 @@ Overcomes RNN limitations by retaining long-term dependencies using memory cells
 ## Contributors ##
 
 Harshit Garg
+
 Gautam Aggarwal
 
